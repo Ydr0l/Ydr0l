@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Ydr0l
+- 👀 I’m interested in python and hacking/pentest/security of information
+- 🌱 I’m currently learning to fiddle more with python and C language, not to mention that I have a basic course in html and css
+- 💞️ I try to collaborate with the community and I hope I find help here for my future projects
+- 📫 How to reach me on twitter: https://twitter.com/KraiErick
+
+- 👋 Oi, eu sou @Ydr0l
+- 👀 Estou interessado em python e hacking/pentest/segurança da informação
+- 🌱 Atualmente estou aprendendo a mexer mais com python e linguagem C, sem contar que tenho um curso básico de html e css
+- 💞️ Tento colaborar com a comunidade e espero encontrar ajuda aqui para meus projetos futuros
+- 📫 Como me encontrar no twitter: https://twitter.com/KraiErick
+- 
